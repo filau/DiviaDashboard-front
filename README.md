@@ -7,10 +7,10 @@ Ce script est réservé à un public un minimum expérimenté avec le développe
 
 ## Comment procéder&nbsp;?
 * Installer le [SDK Flutter](https://flutter.dev/docs/get-started/install) et le SDK correspondant à votre plateforme (Android ou iOS), ainsi que [Python 3](https://www.python.org/downloads/).
+* Pour que l’application fonctionne, vous devrez configurer un serveur ou un VPS avec [le back-end](https://github.com/filau/DiviaDashboard-back).
 * Lancer le script `generate.py`&nbsp;:
 ```
 $  [python | python3] generate.py
 ```
 * Répondre aux questions posées par le script.
 * Une fois l’application Flutter générée, la compiler (les scripts ` android_build.cmd` et `android_build.sh` sont là pour vous aider si vous avez un appareil Android&nbsp;!).
-* Et le tour est joué&nbsp;!
