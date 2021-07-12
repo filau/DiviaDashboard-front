@@ -1,6 +1,6 @@
 # Divia dashboard (front-end)
 
-Vous souhaitez consulter les horaires de votre bus ou tramway Divia depuis votre smartphone de manière directe, simplement en lançant une application&nbsp;? Alors, utilisez *Divia dashboard*&nbsp;!  
+Vous souhaitez consulter les horaires de votre bus ou tramway Divia depuis votre smartphone de manière directe, simplement en lançant une application&nbsp;? Alors, utilisez *Divia dashboard*&nbsp;! Ceci est le *front-end* de l’application.
 
 ## Attention
 Ce script est réservé à un public un minimum expérimenté avec le développement. Vous devez savoir manier un minimum le SDK Flutter.

@@ -1,4 +1,4 @@
-import sys
+# Divia dashboard is distributed under the General Public License, version 3.
 
 from divia_api import DiviaAPI
 from os import system
