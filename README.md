@@ -1,4 +1,4 @@
-# Divia dashboard
+# Divia dashboard (front-end)
 
 Vous souhaitez consulter les horaires de votre bus ou tramway Divia depuis votre smartphone de manière directe, simplement en lançant une application&nbsp;? Alors, utilisez *Divia dashboard*&nbsp;!  
 
