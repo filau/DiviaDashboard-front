@@ -8,7 +8,7 @@ Ce script est réservé à un public un minimum expérimenté avec le développe
 ## Comment procéder&nbsp;?
 * Installer le [SDK Flutter](https://flutter.dev/docs/get-started/install) et le SDK correspondant à votre plateforme (Android ou iOS), ainsi que [Python 3](https://www.python.org/downloads/).
 * Pour que l’application fonctionne, vous devrez configurer un serveur ou un VPS avec [le back-end](https://github.com/filau/DiviaDashboard-back).
-* Installer la dépendances du script avec `pip`&nbsp;:
+* Installer la dépendance du script avec `pip`&nbsp;:
 ```
 $  [python | python3] -m pip install --upgrade divia-api
 ```
